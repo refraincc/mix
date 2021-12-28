@@ -1,0 +1,6 @@
+module Pods_Mix_Example {
+  umbrella header "Pods-Mix_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

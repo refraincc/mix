@@ -1,0 +1,22 @@
+{
+  "name": "Mix",
+  "version": "0.1.0",
+  "summary": "A short description of Mix.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cc/Mix",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cc": "chengcheng@blued.com"
+  },
+  "source": {
+    "git": "https://github.com/cc/Mix.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Mix/Classes/**/*"
+}

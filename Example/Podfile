@@ -1,0 +1,14 @@
+#use_frameworks!
+use_modular_headers!
+
+platform :ios, '9.0'
+
+target 'Mix_Example' do
+  pod 'Mix', :path => '../'
+
+  target 'Mix_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

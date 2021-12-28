@@ -1,0 +1,16 @@
+PODS:
+  - Mix (0.1.0)
+
+DEPENDENCIES:
+  - Mix (from `../`)
+
+EXTERNAL SOURCES:
+  Mix:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Mix: a800b76080ccc5dd4808b9d8d40af0a51d68f1a8
+
+PODFILE CHECKSUM: d10d93a1549db4486812fabf011807f0abc78476
+
+COCOAPODS: 1.9.1
